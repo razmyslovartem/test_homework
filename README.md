@@ -6,7 +6,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone git@github.com:razmyslovartem/project.git
+    git clone git@github.com:razmyslovartem/homework.git
     cd project
     ```
 
